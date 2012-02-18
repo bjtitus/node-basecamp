@@ -18,7 +18,8 @@
     "url": "http://github.com/studiolift/node-basecamp.git"
   },
   "dependencies": {
-    "xml2js" : ">=0.1.8"
+    "xml2js" : ">=0.1.8",
+    "data2xml" : ">=0.4.0"
   },
   "engines" : { "node" : ">=0.4.7" }
 }
